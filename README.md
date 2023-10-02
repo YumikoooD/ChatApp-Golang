@@ -1,5 +1,6 @@
 # ChatApp-Golang
 
+First time using golang.
 Chat application in Golang. 
 
 Utilisation:
